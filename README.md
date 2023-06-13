@@ -5,7 +5,6 @@
 - 📫 How to reach me:-
   - [Business Email](mailto:eskandar.pola@codingstreamer.com) 
   - [LinkedIn](https://www.linkedin.com/in/pola-eskandar-a706271b6/)
-  - [Facebook](https://www.facebook.com/polaeskandar1/)
 - Mainly working with:
   - ✔ Laravel
   - ✔ Node.js
