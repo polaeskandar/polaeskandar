@@ -5,8 +5,6 @@
 - Mainly working with:
   - ✔ PHP + Laravel
   - ✔ Java + Spring
-  - ✔ Node.js
-  - ✔ TypeScript
 
 <!--
 **polaeskandar/polaeskandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
