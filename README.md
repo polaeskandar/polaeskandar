@@ -3,7 +3,7 @@
   - [Business Email](mailto:eskandar.pola@codingstreamer.com) 
   - [LinkedIn](https://www.linkedin.com/in/pola-eskandar-a706271b6/)
 - Mainly working with:
-  - ✔ PHP + Laravel
+  - ✔ PHP + Laravel + Symfony
   - ✔ Java + Spring
 
 <!--
